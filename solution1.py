@@ -9,5 +9,5 @@ def count_down(num):
         print(num)
         count_down(num-1)
 
-whatever = 4
+whatever = 1
 count_down(whatever)
